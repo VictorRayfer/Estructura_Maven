@@ -4,22 +4,20 @@
 
 	<parent>
 		<groupId>es.salesianos.edu</groupId>
-		<artifactId>root</artifactId>
+		<artifactId>Sub</artifactId>
 		<version>1.0.0-SNAPSHOT</version>
 	</parent>
 
 
 	<groupId>es.salesianos.edu</groupId>
-	<artifactId>Sub</artifactId>
+	<artifactId>Sub1</artifactId>
 	<version>1.0.0-SNAPSHOT</version>
 	<packaging>pom</packaging>
 
-	<name>Sub</name>
+	<name>Sub1</name>
 
 		<modules>
-			<module>C</module>
-			<module>D</module>
-			<module>Sub1</module>
+			<module>E</module>
 		</modules>
 
 	<dependencies>
